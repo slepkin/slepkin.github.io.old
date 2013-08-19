@@ -22,7 +22,7 @@ Minors: Economics, Music Theory
 * Combines elements of _Apples to Apples_ and _Words with Friends_
 * Written with Ruby on Rails, employs RSpec, AJAX, jQuery, Devise
 
-[pb]:  http://photo-bingo.herokuapp.com "Photo Bingo"
+[pb]:  http://photobingo.slepkin.com "Photo Bingo"
 
 # Technical Skills
 
