@@ -273,19 +273,28 @@ Full-Width Styles
   margin: 0 auto;
 }
 
-#forkme_banner {
+.banner-link {
   display: block;
   position: absolute;
   top:0;
-  right: 10px;
   z-index: 10;
-  padding: 10px 50px 10px 10px;
   color: #fff;
-  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
+}
+
+#forkme_banner {
+  right: 10px;
+  padding: 10px 50px 10px 10px;
+  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+}
+
+#linked_banner {
+  right: 200px;
+  padding: 10px;
+  background-color: green;
 }
 
 #header_wrap {
