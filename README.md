@@ -52,7 +52,7 @@ Fall 2011 - Spring 2012
 * Maintained CGI scripts to streamline registration for conference attended by 100+ graduate students
 
 # Academic Talks
-#### [Extended Gale-Shapely Algorithm for Many-Many Matchings][talk1]
+#### [Extended Gale-Shapley Algorithm for Many-Many Matchings][talk1]
 ##### Fall 2012
 Investigation of algorithms that match people with organizations, according to pre-deﬁned preferences.
 
