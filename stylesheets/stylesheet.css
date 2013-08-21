@@ -131,6 +131,12 @@ footer a:hover {
   text-shadow: #0090ff 0px 0px 2px;
 }
 
+#schools li {
+  list-style: none;
+  padding-bottom: 20px;
+  padding-left: 0;
+}
+
 em {
   font-style: italic;
 }
