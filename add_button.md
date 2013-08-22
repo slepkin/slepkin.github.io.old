@@ -28,4 +28,4 @@
     }
 ```
 3. Add `<a class="banner-link" id="linked_banner" href="http://www.linkedin.com/pub/simon-lepkin/21/b1/294/">View on LinkedIn</a>` after the forkme banner
-4. Add `class="banner-link"` to `#forme-banner`. Note the underscore for class names, and the hyphen for ids.
+4. Add `class="banner-link"` to `#forkme-banner`. Note the underscore for class names, and the hyphen for ids.
