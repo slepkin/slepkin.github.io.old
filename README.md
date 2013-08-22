@@ -14,7 +14,7 @@ If you want to chat about interesting problems, shoot me an email at <slepkin@gm
 ##### Bachelor of Arts: Mathematics, May 2009
 Minors: Economics, Music Theory
 
-# Recent Project
+# Recent Projects
 
 ### [Photo Bingo][pb]
 
@@ -22,7 +22,13 @@ Minors: Economics, Music Theory
 * Combines elements of _Apples to Apples_ and _Words with Friends_
 * Written with Ruby on Rails, employs RSpec, AJAX, jQuery, Devise
 
+### [Revealed Preferences][rp]
+
+* Python script developed in research
+* Represents [reduced stable marriage problem](http://en.wikipedia.org/wiki/Stable_marriage_problem) problem as a digraph
+
 [pb]:  http://photobingo.slepkin.com "Photo Bingo"
+[rp]:  https://github.com/slepkin/RevealedPreferences "Revealed Preferences"
 
 # Technical Skills
 
