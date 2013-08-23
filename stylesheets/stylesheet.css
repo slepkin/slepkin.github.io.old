@@ -299,8 +299,9 @@ Full-Width Styles
 
 #linked_banner {
  right: 200px;
- background-color: green;
- padding: 10px;
+ background: url('../images/linkedin_icon2.png') green no-repeat 97% 50%;
+ background-size: 19%;
+ padding: 10px 50px 10px 10px;
 }
 
 #header_wrap {
